@@ -38,7 +38,8 @@ A simple and elegant web application that allows users to upload a PDF, define c
 
 ## 🖼️ Screenshot
 
-<img href="./image.png" alt="image"/>
+<img src="./image.png" alt="App Screenshot" width="600"/>
+
 
 ---
 
